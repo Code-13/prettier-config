@@ -1,0 +1,14 @@
+{
+  "name": "@code13/prettier-config",
+  "version": "0.1.0",
+  "description": "my personal prettier",
+  "main": "index.json",
+  "files": [
+    "index,json"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "code13",
+    "url": "https://github.com/Code-13"
+  }
+}
